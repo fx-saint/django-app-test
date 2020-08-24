@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '(%07!rag-6dmr_hb8n@#!*v^3mp3gn
 # DEBUG = True
 DEBUG = os.environ.get('DJANG0_DEBUG', '') != 'False'
 
-ALLOWED_HOSTS = ['? fathomless-wave-38639.herokuapp.com']
+ALLOWED_HOSTS = ['fathomless-wave-38639.herokuapp.com']
 
 # Application definition
 
